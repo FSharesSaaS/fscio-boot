@@ -6,8 +6,8 @@ import (
 	"github.com/dfuse-io/eosio-boot/config"
 	"github.com/dfuse-io/eosio-boot/snapshot"
 	"github.com/dfuse-io/eosio-boot/unregd"
-	"github.com/eoscanada/eos-go/ecc"
-	"github.com/eoscanada/eos-go/token"
+	"github.com/FSharesSaaS/fshares.fsgo/ecc"
+	"github.com/FSharesSaaS/fshares.fsgo/token"
 	"go.uber.org/zap"
 )
 

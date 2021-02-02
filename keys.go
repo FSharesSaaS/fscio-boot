@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/eoscanada/eos-go"
-	"github.com/eoscanada/eos-go/ecc"
+	"github.com/FSharesSaaS/fshares.fsgo"
+	"github.com/FSharesSaaS/fshares.fsgo/ecc"
 	"go.uber.org/zap"
 )
 

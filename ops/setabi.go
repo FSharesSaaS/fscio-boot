@@ -4,9 +4,9 @@ import (
 	"fmt"
 
 	"github.com/dfuse-io/eosio-boot/config"
-	"github.com/eoscanada/eos-go"
-	"github.com/eoscanada/eos-go/ecc"
-	"github.com/eoscanada/eos-go/system"
+	"github.com/FSharesSaaS/fshares.fsgo"
+	"github.com/FSharesSaaS/fshares.fsgo/ecc"
+	"github.com/FSharesSaaS/fshares.fsgo/system"
 )
 
 func init() {

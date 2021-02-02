@@ -6,8 +6,8 @@ import (
 	"io/ioutil"
 
 	"github.com/dfuse-io/eosio-boot/config"
-	"github.com/eoscanada/eos-go"
-	"github.com/eoscanada/eos-go/ecc"
+	"github.com/FSharesSaaS/fshares.fsgo"
+	"github.com/FSharesSaaS/fshares.fsgo/ecc"
 )
 
 var AN = eos.AN

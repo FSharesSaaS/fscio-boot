@@ -12,9 +12,9 @@ import (
 	"github.com/dfuse-io/eosio-boot/content"
 	"github.com/dfuse-io/eosio-boot/ops"
 	"github.com/dfuse-io/eosio-boot/snapshot"
-	"github.com/eoscanada/eos-go"
-	"github.com/eoscanada/eos-go/ecc"
-	"github.com/eoscanada/eos-go/system"
+	"github.com/FSharesSaaS/fshares.fsgo"
+	"github.com/FSharesSaaS/fshares.fsgo/ecc"
+	"github.com/FSharesSaaS/fshares.fsgo/system"
 	"go.uber.org/zap"
 )
 

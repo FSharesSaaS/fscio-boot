@@ -2,7 +2,7 @@ package ops
 
 import (
 	"fmt"
-	"github.com/eoscanada/eos-go"
+	"github.com/FSharesSaaS/fshares.fsgo"
 	"github.com/stretchr/testify/assert"
 	"testing"
 )

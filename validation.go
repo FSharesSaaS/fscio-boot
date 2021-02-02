@@ -11,7 +11,7 @@ import (
 
 	"github.com/dfuse-io/eosio-boot/config"
 	"github.com/dfuse-io/eosio-boot/ops"
-	"github.com/eoscanada/eos-go"
+	"github.com/FSharesSaaS/fshares.fsgo"
 	"go.uber.org/zap"
 )
 

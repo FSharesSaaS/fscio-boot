@@ -1,6 +1,6 @@
 package boot
 
-import "github.com/eoscanada/eos-go"
+import "github.com/FSharesSaaS/fshares.fsgo"
 
 //accts/dfu/se44shine/tables/posts/eo/scanadacom.json
 //accts/{[acc]/[ountName]}/contract.wasm
